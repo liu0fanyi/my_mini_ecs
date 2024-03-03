@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        ".\\2-archetype\\Cargo.toml"
+    ]
+}
